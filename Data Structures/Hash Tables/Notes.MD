@@ -14,7 +14,7 @@ c. Removing values
 Nearly every programming language has some sort of hash table data structure
 Because of their speed, hash tables are very commonly used
 
-Javascript has objects and maps\*
+#### Javascript has objects and maps
 
 ### The Hash Part
 
